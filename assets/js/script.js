@@ -12,7 +12,7 @@ function Carousel() {
   this.mouseHover = true;
   this.xDown = null;
   this.xUp = null;
-  this.interaval = 1000;
+  this.interaval = 6000;
   this.SLIDES_COUNT = this.slide.length;
 }
 
